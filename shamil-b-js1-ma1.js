@@ -34,7 +34,7 @@ const paragraphs = document.querySelectorAll("p");
 
 const resultsContainer = document.querySelector("results");
   
-resultsContainer.innerHTML = ("<p>New paragraph</p>");
+resultsContainer.innerHTML = "<p>New paragraph</p>");
 
 // Question 7
 // Create a function that has one argument called catArray.
